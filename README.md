@@ -1,6 +1,6 @@
 # CSC262 memfit
 
-Memory Allocation Assignment (Due Monday, 4 March 2019)
+Memory Allocation Assignment (Due Friday, 8 March 2019)
 
 ## Example Input File:
 
